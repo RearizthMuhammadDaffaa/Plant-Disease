@@ -2,3 +2,4 @@ matplotlib
 streamlit
 tensorflow_hub
 tensorflow
+numpy
